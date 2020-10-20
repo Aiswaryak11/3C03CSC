@@ -1,1 +1,32 @@
 
+ body{
+       width :70%;
+       margin : auto;
+}
+#contact {
+      text - allign; right;
+}
+h1 ,h2 {
+      height: 15 px;
+}
+main menu{
+text - allign : right;
+background  - color  : red;
+margin - top : 30px;
+padding  :10px;
+color : violet;
+font - weight : bold;
+
+}
+main image{
+width :100%;
+}
+latest news{
+width : 50 ;
+height : 100;
+float : left;
+}
+latest news head{
+background - color : dark red ;
+color : white ;
+}
