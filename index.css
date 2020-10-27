@@ -1,13 +1,12 @@
-
- body{
-       width :70%;
-       margin : auto;
+body{
+       width:70%;
+       margin:auto;
 }
 #contact {
-      text - allign:right;
+      text-allign:right;
 }
-h1 ,h2 {
-      height: 15 px;
+h1,h2 {
+      height:15px;
 }
 main menu{
 text - allign : right;
