@@ -38,12 +38,12 @@ padding:10px
 margin-bottom:8px;
 test-aline:right;
 }
-marqueestyle{
+#marqueestyle{
 background-color:violet;
 padding:10px;
 height:100px;
 }
-aboutusdesc{
+#aboutusdesc{
 background-color:red;
 padding:10px;
 text-align:justify;
