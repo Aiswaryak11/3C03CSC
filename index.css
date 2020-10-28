@@ -37,7 +37,7 @@ background-color:green;
 color:white;
 padding:10px
 margin-bottom:8px;
-float:right;
+float:down;
 }
 #marqueestyle{
 background-color:violet;
@@ -48,7 +48,7 @@ float:left;
 #aboutusdesc{
 background-color:yellow;
 padding:10px;
-float:right;
+float:down;
 }
 
 
