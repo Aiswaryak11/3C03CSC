@@ -26,6 +26,11 @@ height:100px;
 float:left;
 background-color:red
 }
+#aboutus{
+width:45%;
+height:100px;
+float:right;
+}
 #latestnewshead{
 background-color:violet;
 color:white;
