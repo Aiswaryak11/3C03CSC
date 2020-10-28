@@ -1,5 +1,5 @@
 body{
-       width:70%;
+       width:100%;
        margin:auto;
 }
 #contact {
@@ -18,10 +18,10 @@ font-weight:bold;
 
 }
 #mainimage{
-width:40%;
+width:100%;
 }
 #latestnews{
-width:90%;
+width:60%;
 height:100px;
 float:left;
 }
