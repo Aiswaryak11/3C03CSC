@@ -30,6 +30,7 @@ background-color:violet;
 color:white;
 padding:10px
 margin-bottom:8px;
+float:right;
 }
 #aboutushead{
 background-color:green;
@@ -42,6 +43,7 @@ float:right;
 background-color:violet;
 padding:10px;
 height:100px;
+float:left;
 }
 #aboutusdesc{
 background-color:yellow;
