@@ -1,12 +1,12 @@
 body{
-       width:100%;
+       width:90%;
        margin:auto;
 }
 #contact {
       text-allign:right;
 }
 h1,h2 {
-      height:15px;
+      height:30px;
 }
 #mainmenu{
 text-allign:right;
@@ -21,7 +21,7 @@ font-weight:bold;
 width:50%;
 }
 #latestnews{
-width:100%;
+width:80%;
 height:100px;
 float:left;
 }
