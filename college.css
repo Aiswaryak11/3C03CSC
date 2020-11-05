@@ -9,13 +9,13 @@ h1,h2 {
 text-align:centre;
 }
 #mainimage{
-width:60%;
+width:80%;
 height:30%;
 margin:auto;
 border:black;
 border:5px solid black;
 }
-#mainimage{
+#mainmenu{
 text-align:auto;
 background-color:black;
 margin-top:0px;
